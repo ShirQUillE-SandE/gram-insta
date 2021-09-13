@@ -12,7 +12,7 @@ Logged in users can view photos uploaded by other users in the home page of appl
 
 ## Set Up and Installations
 
-### Prerequisites
+### Prerequisites   
 1. Ubuntu Software
 2. Python3
 3. Postgres
