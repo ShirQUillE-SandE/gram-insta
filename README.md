@@ -1,8 +1,8 @@
 # Instagram
-### Instagram 2.0 clone 
+### Instagram 2.1  
 
 ## Author
-Juma Allan.
+Shirquille Sande
 
 ## Description
 This is a simple website replication of the instagram application. A user first needs to  create an account before logging  in. 
@@ -14,14 +14,13 @@ Logged in users can view photos uploaded by other users in the home page of appl
 
 ### Prerequisites
 1. Ubuntu Software
-2. Python3.8.10
+2. Python3
 3. Postgres
 4. python virtual environment (virtual:venv).
 5. Text editor - preferably Visual Studio Code Editor.
 
 ### Clone the  project Repo
 Run the following command on the terminal:
-`git clone https://github.com/juma-moringa/Instagram.git`
 * cd Instagram
 
 ###  Install and activate virtual environment
@@ -57,10 +56,10 @@ Install  all dependancies that will make the app run/function
 `password: Access254`
 
 ## Technologies used
-    - Python 3.8.10
+    - Python3
     - HTML
-    - Django 3.2.5
-    - Bootstrap 3
+    - Django 
+    - Bootstrap3
     - Heroku
     - Postgresql
     - GIT
@@ -70,10 +69,10 @@ Install  all dependancies that will make the app run/function
 
 ## Live Link
 
-[View Live Site.](https://gram-the-insta.herokuapp.com/)
+[View Live Site.] (https://graminsta2021.herokuapp.com/)
 
 ## License
 
 Instagram2.0 clone is under the [MIT](LICENSE) license.
 
-@Jaycreations-2021.
+@shirquillesande-2021.
